@@ -12,7 +12,7 @@ int main() {
     int integer;
 
     // input
-    std::cout << "Enter an integer: " << std::endl;
+    std::cout << "Enter number of a month(ex: 3 for March): " << std::endl;
     std::cin >> integer;
 
     // process/output
